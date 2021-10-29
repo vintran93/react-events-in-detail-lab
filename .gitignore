@@ -32,7 +32,6 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
-package-lock.json
 
 # Optional npm cache directory
 .npm
@@ -44,8 +43,8 @@ package-lock.json
 .results.json
 bundle.js
 
-# Yarn Lockfile
-yarn.lock
+# Yarn Lockfile 
+yarn.lock 
 
-# DS_Store
+# DS_Store 
 .DS_Store
